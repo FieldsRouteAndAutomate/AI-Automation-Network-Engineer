@@ -1,8 +1,10 @@
 # AI Automation Network Engineer
 
+## About Me
+
 Welcome to my learning and project portfolio.
 
-I am a Network and Endpoint Support professional pursuing a career in AI, Network Automation, and Infrastructure Engineering.
+I am an End User Analyst II professional pursuing a career in AI, Network Automation, and Infrastructure Engineering.
 
 ## Current Skills
 
@@ -13,14 +15,14 @@ I am a Network and Endpoint Support professional pursuing a career in AI, Networ
 - PowerShell
 - Windows Endpoint Support
 
-## Currently Learning
+## Current Focus
 
+- Networking
 - Python
-- Ansible
-- Netmiko
-- AI Agents
+- PowerShell
 - Copilot Studio
-- GitHub
+- Cisco DevNet
+- Azure
 
 ## Portfolio Projects
 
@@ -38,3 +40,7 @@ Copilot Studio and AI workflow projects.
 
 ### Documentation
 Study notes and technical walkthroughs.
+
+## Goal
+
+Become an AI Automation Network Engineer capable of combining Networking, Automation, Artificial Intelligence, and Enterprise IT Operations.
