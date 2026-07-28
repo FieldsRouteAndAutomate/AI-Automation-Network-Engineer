@@ -1,18 +1,23 @@
 # PowerShell Automation
 
-This folder contains PowerShell scripts used for endpoint management and automation.
+This folder contains PowerShell scripts used to automate endpoint management, software deployment, troubleshooting, and system administration tasks.
 
-## Areas of Focus
+## Technologies
 
-- SCCM/MECM
+- PowerShell
+- SCCM / MECM
 - Intune
-- Microsoft 365
-- Windows Administration
-- Dell Automation
+- Windows 11
+- Dell Command Update
 
-## Planned Scripts
+## Current Projects
 
-- Clear SCCM Cache
-- Install Dell Updates
-- Software Inventory Collection
-- Automated Device Cleanup
+- SCCM Cache Cleanup
+- Microsoft Project Removal
+- Device Information Collection
+- Dell Update Automation
+- System Health Reporting
+
+## Goal
+
+Reduce manual support effort through automation and scripting.
