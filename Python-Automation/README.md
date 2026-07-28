@@ -1,15 +1,24 @@
 # Python Automation
 
-This folder contains Python scripts related to:
+This folder contains Python scripts focused on network automation, APIs, reporting, and AI-driven workflows.
 
+## Skills Being Developed
+
+- Python Fundamentals
 - Network Automation
-- API Integrations
-- AI Workflows
-- Infrastructure Automation
+- REST APIs
+- Data Collection
+- Reporting
+- AI Integration
 
 ## Planned Projects
 
-- Cisco Configuration Backup
-- Network Inventory Collection
-- REST API Testing
-- AI Network Assistant
+- Network Device Inventory
+- Configuration Backup
+- API Testing
+- Automated Reporting
+- AI-Powered Network Assistant
+
+## Current Status
+
+Learning Python while applying automation concepts to real-world IT support and network engineering tasks.
