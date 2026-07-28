@@ -1,13 +1,26 @@
 # Copilot Studio Agents
 
-This folder tracks AI agents built using Microsoft Copilot Studio.
+This folder contains AI agents built using Microsoft Copilot Studio.
 
-## Current Projects
+## Objectives
 
-- Workplace Support Agent
+- Improve Employee Self-Service
+- Reduce Repetitive Support Requests
+- Increase Workplace Support Efficiency
+- Provide Automation Recommendations
+- Centralize Knowledge
+
+## Current Agents
+
 - Automation Advisor Agent
-- Service Ownership Agent
+- Workplace Support Agent
+- TO Service Ownership Agent
+- Knowledge Base Agent
 
-## Goal
+## Technologies
 
-Use AI to reduce manual support tasks and improve employee self-service capabilities.
+- Microsoft Copilot Studio
+- Power Automate
+- Microsoft 365
+- SharePoint
+- AI Prompt Engineering
