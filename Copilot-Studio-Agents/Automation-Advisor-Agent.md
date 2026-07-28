@@ -2,15 +2,33 @@
 
 ## Purpose
 
-Identify repetitive support tasks that can be automated.
+Identify repetitive tasks and recommend automation opportunities.
 
-## Technologies
+## Business Problem
 
-- Copilot Studio
-- PowerShell
-- SCCM
-- Intune
+Many support tasks are repetitive and require manual effort.
 
-## Expected Outcome
+## Solution
 
-Reduce manual support effort and improve efficiency.
+The agent analyzes requests and suggests:
+
+- PowerShell Automations
+- Python Automations
+- Power Automate Flows
+- Copilot Studio Solutions
+
+## Example Use Cases
+
+### User Request
+
+"I spend two hours every week collecting software inventory."
+
+### Agent Recommendation
+
+Create a PowerShell script to collect inventory automatically.
+
+## Benefits
+
+- Reduced manual effort
+- Increased efficiency
+- Faster service delivery
